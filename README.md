@@ -149,7 +149,7 @@ python main.py train
 ## 📁 Repository Structure
 
 ```
-E:\qiskit oombu\
+
 ├── config.py                 # Hospital nodes, physical fiber links, QKD parameters
 ├── qkd_simulator.py          # Qiskit 2.x dynamic circuits for BB84, Aer simulator, QBER
 ├── network_topology.py       # NetworkX hospital graph, routing, link telemetry scanner
